@@ -15,7 +15,12 @@
 🏆 Soft Skills<br>
 🔹 Leadership, Problem-Solving, Agile Methodologies, Teamwork.
 
-
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,java,linux,mysql=14" />
+  </a>
+</p>
 <!-- CONNECTION -->
 <hr>      
 <h3 align="center">Connect with me:</h3>
