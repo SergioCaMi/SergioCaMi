@@ -16,6 +16,9 @@
 🔹 Leadership, Problem-Solving, Agile Methodologies, Teamwork.
 
 <!--tech stack icons-->
+<hr>     
+<h3 align="center">Technologies That I Know:</h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,html,css,java,linux,mysql=14" />
