@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi , I'm Sergio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+ <img src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp" alt="">
 
-<!--
-**SergioCaMi/SergioCaMi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 About Me:<br><br>
+🚀 Transitioning into Full Stack Development with a strong background in team <br>
+management and process optimization in the industrial sector.<br><br>
+🌍 Currently expanding my knowledge in Full Stack Development.
 
-Here are some ideas to get you started:
+🔧 Currently Working On<br>
+🔹 Reinventing myself, shifting my career towards programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📖 Currently Learning<br>
+🔹 Frontend development.<br>
+🔹 Python.<br>
+
+🏆 Soft Skills<br>
+🔹 Leadership, Problem-Solving, Agile Methodologies, Teamwork.
+
+
+<!-- CONNECTION -->
+<hr>      
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/sergio-calvo-miron/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sergiocami84@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+
+</p>
+
+
+
+
+
