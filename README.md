@@ -2,8 +2,7 @@
  <img src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp" alt="">
 
 💻 About Me:<br><br>
-🚀 Transitioning into Full Stack Development with a strong background in team <br>
-management and process optimization in the industrial sector.<br><br>
+🚀 Transitioning into Full Stack Development with a strong background in team management and process optimization in the industrial sector.<br><br>
 🌍 Currently expanding my knowledge in Full Stack Development.
 
 🔧 Currently Working On<br>
