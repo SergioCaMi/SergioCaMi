@@ -61,14 +61,15 @@
   </p>
 
  <h2>Connect with Me</h2>
-  <p align="center">
-    <a href="www.linkedin.com/in/sergio-calvo-miron">
-      <img alt="Linkedin" title="Sergio Calvo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/SergioCaMi">
-      <img alt="Github" title="SergioCaMi Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="mailto:sergiocami84@gmail.com">
-      <img alt="Gmail" title="Sergio Calvo Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sergio-calvo-miron" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" title="Sergio Calvo on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/SergioCaMi" target="_blank" rel="noopener noreferrer">
+    <img alt="GitHub" title="SergioCaMi on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:sergiocami84@gmail.com">
+    <img alt="Gmail" title="Email Sergio Calvo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
