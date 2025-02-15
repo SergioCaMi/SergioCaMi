@@ -68,8 +68,8 @@
   <a href="https://github.com/SergioCaMi" target="_blank" rel="noopener noreferrer">
     <img alt="GitHub" title="SergioCaMi on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:sergiocami84@gmail.com">
-    <img alt="Gmail" title="Email Sergio Calvo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sergiocami84@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img alt="Gmail" title="Email Sergio Calvo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
