@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,java,linux,mysql=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,java,linux,mysql" />
   </a>
 </p>
 <!-- CONNECTION -->
