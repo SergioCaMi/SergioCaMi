@@ -52,7 +52,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
    <a href="https://github.com/SergioCaMi">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioCaMi&show_icons=true&theme=algolia&cache_seconds=86400"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioCaMi&show_icons=true&theme=algolia&cache_seconds=3600"/>
    </a>
 </p>
 
