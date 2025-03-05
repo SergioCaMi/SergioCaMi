@@ -56,7 +56,7 @@
    </a>
 </p>
 
-### 📊 &nbsp;Lenguajes más usados
+### 📊 &nbsp;Most Used Languages
 <p align="center">
    <a href="https://github.com/SergioCaMi">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioCaMi&layout=donut&theme=algolia&cache_seconds=3600"/>
