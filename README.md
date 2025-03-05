@@ -3,7 +3,7 @@
 <img src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp" alt="">
 
 ## 💻 About Me:
-🚀 Transitioning into Full Stack Development with a strong background in team management and process optimization in the industrial sector.<br>
+🚀 Transitioning into Full Stack Development with over 20 years of experience in team management and process supervision.<br>
 🌍 Currently expanding my knowledge in Full Stack Development.
 
 ## 🔧 Currently Working On
@@ -55,6 +55,15 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioCaMi&show_icons=true&theme=algolia&cache_seconds=3600"/>
    </a>
 </p>
+
+### 📊 &nbsp;Lenguajes más usados
+<p align="center">
+   <a href="https://github.com/SergioCaMi">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioCaMi&layout=donut&theme=algolia&cache_seconds=3600"/>
+   </a>
+</p>
+
+
 
   <p align="center">
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
