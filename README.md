@@ -18,50 +18,79 @@
 
 ---
 
-<h3 align="center">Technologies That I Know:</h3>
+<h1 align="center">Technologies That I Know:</h1>
+
+
+
+
 
  
   
 
   
   <h2>Programming Languages</h2>
-  <p align="center">
-   <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white" /> 
-   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white" />
-   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black" />
-   <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
-   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
-   <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white" />
-  </p>
+
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+</div>
+ 
+
+
   
   <h2>Software and Tools</h2>
-  <p align="center">
-    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white" />
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" />
-    <img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=green&labelColor=green" />
-    <img alt="Sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important" />
-   <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-%232C2255.svg?logo=eclipse&logoColor=white" />
-   <img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-%23007396.svg?logo=apache-netbeans-ide&logoColor=white" />
-</p>
+ <div align="center">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
+</div>
   
  
 
 ---
 
 
-### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-   <a href="https://github.com/SergioCaMi">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioCaMi&show_icons=true&theme=algolia&cache_seconds=3600"/>
-   </a>
-</p>
+### ⚙️ &nbsp;GitHub Analytics &nbsp;&nbsp;&nbsp;&nbsp;
 
-### 📊 &nbsp;Most Used Languages
-<p align="center">
-   <a href="https://github.com/SergioCaMi">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioCaMi&layout=donut&theme=algolia&cache_seconds=3600"/>
-   </a>
-</p>
+<div align="center">
+  <a href="https://github.com/SergioCaMi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioCaMi&show_icons=true&theme=algolia&cache_seconds=3600" alt="GitHub Analytics"/>
+  </a>
+  <a href="https://github.com/SergioCaMi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioCaMi&layout=donut&theme=algolia&cache_seconds=3600" alt="Most Used Languages"/>
+  </a>
+</div>
 
 
 
@@ -70,15 +99,27 @@
   </p>
 
  <h2>Connect with Me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/sergio-calvo-miron" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" title="Sergio Calvo on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sergio-calvo-miron" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://github.com/SergioCaMi" target="_blank" rel="noopener noreferrer">
-    <img alt="GitHub" title="SergioCaMi on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:sergiocami84@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sergiocami84@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img alt="Gmail" title="Email Sergio Calvo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+  <a href="https://slack.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo" />
+  </a>
+  <a href="https://t.me/Serginhocm" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+  </a>
+  <a href="https://www.instagram.com/serginhocm" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+</div>
+
+
+###
+
+
 
