@@ -1,3 +1,4 @@
+
 <h1 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
   , I'm Sergio Calvo Mirón
@@ -18,72 +19,49 @@
 ---
 <h1 align="center">🛠️ Tech Stack</h1>
 <h2>💻 Programming Languages</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="Java" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" alt="PHP" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css,mysql,php" style="margin: 10px;" />
+  </a>
+</p>
 
 <h2>⚙️ Frameworks & Libraries</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="30" alt="Express.js" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/373574/ejs.svg" height="30" alt="EJS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/mongoose/mongoose-original.svg" height="30" alt="Mongoose" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,vue,bootstrap" style="margin: 10px;" />
+  </a>
+  <img src="https://www.svgrepo.com/show/373574/ejs.svg" height="40" alt="EJS" style="margin: 0 15px;" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/mongoose/mongoose-original.svg" height="40" alt="Mongoose" style="margin: 0 15px;" />
+</p>
 
 <h2>🗄️ Databases</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite" style="margin: 10px;" />
+  </a>
+</p>
 
 <h2>🔌 APIs & Tools</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/rangav/thunder-client-support/main/images/thunder-icon.png" height="30" alt="Thunder Client" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" alt="Git" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" alt="GitHub" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/rangav/thunder-client-support/main/images/thunder-icon.png" height="40" alt="Thunder Client" style="margin: 0 15px;" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" style="margin: 10px;" />
+  </a>
+</p>
 
 <h2>🛠️ Development Tools</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" height="30" alt="PyCharm" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" height="30" alt="Slack" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/@primer/octicons@19.15.5/build/svg/terminal-24.svg" height="30" alt="Terminal" />
+<div align="center" style="background-color:#0d1117; padding:15px; border-radius:12px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code" style="margin: 0 10px; background-color:#1e1e1e; padding:8px; border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" style="margin: 0 10px; background-color:#1e1e1e; padding:8px; border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" style="margin: 0 10px; background-color:#1e1e1e; padding:8px; border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" height="40" alt="Slack" style="margin: 0 10px; background-color:#1e1e1e; padding:8px; border-radius:10px;" />
+  <img 
+  src="https://api.iconify.design/mdi/terminal.svg?color=white" 
+  alt="Terminal"
+  style="width:55px; height:40px; margin:0 10px; background-color:#1e1e1e; padding:8px; border-radius:10px;"
+/>
+
 </div>
 
 ---
@@ -170,72 +148,48 @@
 <h1 align="center">🛠️ Stack Tecnológico</h1>
 
 <h2>💻 Lenguajes de Programación</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="Java" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" alt="PHP" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css,mysql,php" style="margin: 10px;" />
+  </a>
+</p>
 
 <h2>⚙️ Frameworks y Librerías</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="30" alt="Express.js" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/373574/ejs.svg" height="30" alt="EJS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/mongoose/mongoose-original.svg" height="30" alt="Mongoose" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,vue,bootstrap" style="margin: 10px;" />
+  </a>
+  <img src="https://www.svgrepo.com/show/373574/ejs.svg" height="40" alt="EJS" style="margin: 0 15px;" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/mongoose/mongoose-original.svg" height="40" alt="Mongoose" style="margin: 0 15px;" />
+</p>
 
 <h2>🗄️ Bases de Datos</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite" style="margin: 10px;" />
+  </a>
+</p>
 
 <h2>🔌 APIs y Herramientas</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/rangav/thunder-client-support/main/images/thunder-icon.png" height="30" alt="Thunder Client" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" alt="Git" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" alt="GitHub" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" style="margin: 0 10px;" />
+  <img src="https://raw.githubusercontent.com/rangav/thunder-client-support/main/images/thunder-icon.png" height="40" alt="Thunder Client" style="margin: 0 15px;" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" style="margin: 10px;" />
+  </a>
+</p>
 
 <h2>🛠️ Herramientas de Desarrollo</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" height="30" alt="PyCharm" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" height="30" alt="Slack" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/@primer/octicons@19.15.5/build/svg/terminal-24.svg" height="30" alt="Terminal" />
+<div align="center" style="background-color:#0d1117; padding:15px; border-radius:12px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code" style="margin: 0 10px; background-color:#1e1e1e; padding:8px; border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" style="margin: 0 10px; background-color:#1e1e1e; padding:8px; border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" style="margin: 0 10px; background-color:#1e1e1e; padding:8px; border-radius:10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" height="40" alt="Slack" style="margin: 0 10px; background-color:#1e1e1e; padding:8px; border-radius:10px;" />
+  <img 
+  src="https://api.iconify.design/mdi/terminal.svg?color=white" 
+  alt="Terminal"
+  style="width:55px; height:40px; margin:0 10px; background-color:#1e1e1e; padding:8px; border-radius:10px;"
+/>
 </div>
 
 ---
