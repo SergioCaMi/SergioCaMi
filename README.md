@@ -9,6 +9,13 @@
   <img src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp" alt="Animated footer" />
 </p>
 
+<p align="center">
+  <a href="https://portfolio-sergio-calvo.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-%23000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
+  </a>
+</p>
+
+
 ---
 ## 💼 About Me
 🚀 **Full Stack Developer** in career transition, leveraging **over 20 years of experience in leadership and process management** to build scalable, user-centric web applications.  
@@ -132,6 +139,12 @@
 
 <p align="center">
   <img src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp" alt="Pie animado" />
+</p>
+
+<p align="center">
+  <a href="https://portfolio-sergio-calvo.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-%23000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
+  </a>
 </p>
 
 ---
