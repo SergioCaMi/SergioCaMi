@@ -1,4 +1,4 @@
-
+## English <a name="english-version"></a>
 <p align="center">
   <a href="#english-version">
     <img src="https://img.icons8.com/color/20/000000/usa.png" alt="English" />
@@ -11,7 +11,7 @@
   </a>
 </p>
 
-## English <a name="english-version"></a>
+
 <h1 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
   , I'm Sergio Calvo Mirón
@@ -143,6 +143,7 @@
 <br><br><br><br><br>
 <br><br><br><br><br>
 -----
+## Español <a name="versión-en-español"></a>
 <p align="center">
   <a href="#english-version">
     <img src="https://img.icons8.com/color/20/000000/usa.png" alt="English" />
@@ -155,7 +156,7 @@
   </a>
 </p>
 
-## Español <a name="versión-en-español"></a>
+
 <h1 align="center">
   Hola   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 , soy Sergio Calvo
