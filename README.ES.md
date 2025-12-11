@@ -17,7 +17,7 @@
 </p>
 
 ---
-[**Español**](./README.es.md) | [**English**](./README.md)
+[**Español**](./README.ES.md) | [**English**](./README.md)
 ## 💼 Sobre Mí
 
 🚀 **Desarrollador Full Stack** en transición profesional, aprovechando **más de 20 años de experiencia en liderazgo y gestión de procesos** para construir aplicaciones web escalables y centradas en el usuario.  
