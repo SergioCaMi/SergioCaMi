@@ -17,7 +17,7 @@
 
 
 ---
-[**Español**](./README.es.md) | [**English**](./README.md)
+[**Español**](./README.ES.md) | [**English**](./README.md)
 ## 💼 About Me
 🚀 **Full Stack Developer** in career transition, leveraging **over 20 years of experience in leadership and process management** to build scalable, user-centric web applications.  
 🎓 Currently focused on consolidating skills in **full stack web development**, with special attention to **designing and architecting robust, maintainable applications**. My training covers the development of **dynamic and responsive frontend interfaces**, as well as **backend business logic, API implementation, and efficient data management**.  
