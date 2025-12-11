@@ -1,7 +1,7 @@
 
 <h1 align="center">
   Hola   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-, soy Sergio Calvo Mirón
+, soy Sergio Calvo
 </h1>
 
 <h3 align="center">Full Stack Developer</h3>
@@ -17,7 +17,7 @@
 </p>
 
 ---
-
+[**Español**](./README.es.md) | [**English**](./README.md)
 ## 💼 Sobre Mí
 
 🚀 **Desarrollador Full Stack** en transición profesional, aprovechando **más de 20 años de experiencia en liderazgo y gestión de procesos** para construir aplicaciones web escalables y centradas en el usuario.  
